@@ -1,0 +1,337 @@
+.body{
+    color:rgb(255, 222, 32);
+    background-color:rgb(0, 0, 0);
+    text-transform: uppercase;
+    font-style: inherit;
+    }
+.c00{
+    color: rgb(255, 0, 0);
+    background-color: rgb(49, 49, 49);
+    text-align: center;
+    font-style: italic;
+    text-transform:s capitalize; 
+}
+.c01{
+    color: rgb(231, 227, 0);
+    background-color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    text-align: center;
+    font-style: oblique;
+}
+.c02{
+    color: rgb(255, 230, 0);
+}
+.c03{
+    color: rgb(219, 117, 117);
+    background-color: aqua;
+    text-align: left;
+    text-transform: uppercase;
+}
+.c04{
+    color: aqua;
+    background-color: rgb(167, 32, 32);
+    text-transform: uppercase;
+}
+.c05{
+    color: black;
+    background-color: blue;
+    text-transform: uppercase;
+}
+.c06{
+    color: blue;
+    background-color: brown;
+    text-transform: uppercase;
+}
+.c07{
+    color: burlywood;
+    background-color: chartreuse;
+    text-transform: uppercase;
+}
+.c08{
+    color: chartreuse;
+    background-color: chocolate;
+    text-transform: uppercase;
+}
+.c09{
+    color: chocolate;
+    background-color: cornflowerblue;
+    text-transform: uppercase;
+}
+.c10{
+    color: cornflowerblue;
+    background-color: cornsilk;
+    text-transform: uppercase;
+}
+.c11{
+    color: cornsilk;
+    background-color: crimson;
+    text-transform: uppercase;
+}
+.c12{
+    color: crimson;
+    background-color: cyan;
+    text-transform: uppercase;
+}
+.c13{
+    color: cyan;
+    background-color: darkblue;
+    text-transform: uppercase;
+}
+.c14{
+    color: darkblue;
+    background-color: darkcyan;
+    text-transform: uppercase;
+}
+.c15{
+    color: darkgoldenrod;
+    background-color: darkgray;
+    text-transform: uppercase;
+}
+.c16{
+    color: darkgray;
+    background-color: darkgreen;
+    text-transform: uppercase;
+}
+.c17{
+    color: darkgreen;
+    background-color: darkkhaki;
+    text-transform: uppercase;
+}
+.c18{
+    color: darkkhaki;
+    background-color: darkmagenta;
+    text-transform: uppercase;
+}
+.c19{
+    color: darkmagenta;
+    background-color: darkolivegreen;
+    text-transform: uppercase;
+}
+.c20{
+    color: darkolivegreen;
+    background-color: darkorange;
+    text-transform: uppercase;
+}
+.c21{
+    color: darkorange;
+    background-color: darkorchid;
+    text-transform: uppercase;
+}
+.c22{
+    color: darkorchid;
+    background-color: darkred;
+    text-transform: uppercase;
+}
+.c23{
+    color: darkred;
+    background-color: darksalmon;
+    text-transform: uppercase;
+}
+.c24{
+    color: darksalmon;
+    background-color: darkseagreen;
+    text-transform: uppercase;
+}
+.c25{
+    color: darkseagreen;
+    background-color: darkslateblue;
+    text-transform: uppercase;
+}
+.c26{
+    color: darkslateblue;
+    background-color: darkslategray;
+    text-transform: uppercase;
+}
+.c27{
+    color: darkslategray;
+    background-color: darkturquoise;
+    text-transform: uppercase;
+}
+.c28{
+    color: darkturquoise;
+    background-color: darkviolet;
+    text-transform: uppercase;
+}
+.c29{
+    color: darkviolet;
+    background-color: deeppink;
+    text-transform: uppercase;
+}
+.c30{
+    color: deeppink;
+    background-color: deepskyblue;
+    text-transform: uppercase;
+}
+.c31{
+    color: deepskyblue;
+    background-color: dimgrey;
+    text-transform: uppercase;
+}
+.c32{
+    color: dimgrey;
+    background-color: dodgerblue;
+    text-transform: uppercase;
+}
+.c33{
+    color: dodgerblue;
+    background-color: firebrick;
+    text-transform: uppercase;
+}
+.c34{
+    color: firebrick;
+    background-color: floralwhite;
+    text-transform: uppercase;
+}
+.c35{
+    color: floralwhite;
+    background-color: forestgreen;
+    text-transform: uppercase;
+}
+.c36{
+    color: forestgreen;
+    background-color: rgb(255, 0, 212);
+    text-transform: uppercase;
+}
+.c37{
+    color: fuchsia;
+    background-color: gainsboro;
+    text-transform: uppercase;
+}
+.c38{
+    color: gainsboro;
+    background-color: gold;
+    text-transform: uppercase;
+}
+.c39{
+    color: gold;
+    background-color: gray;
+    text-transform: uppercase;
+}
+.c40{
+    color: gray;
+    background-color:green ;
+    text-transform: uppercase;
+}
+.c41{
+    color: green;
+    background-color: greenyellow;
+    text-transform: uppercase;
+}
+.c42{
+    color: greenyellow;
+    background-color: grey;
+    text-transform: uppercase;
+}
+.c43{color: grey;
+    background-color: honeydew;
+    text-transform: uppercase;
+}
+.c44{
+    color: honeydew;
+    background-color: hotpink;
+    text-transform: uppercase;
+}
+.c45{
+    color: hotpink;
+    background-color: indianred;
+    text-transform: uppercase;
+}
+.c46{
+    color: indianred;
+    background-color: indigo;
+    text-transform: uppercase;
+}
+.c47{
+    color: indigo;
+    background-color: ivory;
+    text-transform: uppercase;
+}
+.c48{
+    color: ivory;
+    background-color: lawngreen;
+    text-transform: uppercase;
+}
+.c49{
+    color: lawngreen;
+    background-color: lemonchiffon;
+    text-transform: uppercase;
+}
+.c50{
+    color: lemonchiffon;
+    background-color:lightskyblue ;
+    text-transform: uppercase;
+}
+.c51{
+    color: lightslategray;
+    background-color: lightyellow;
+    text-transform: uppercase;
+}
+.c52{
+    color: lightyellow;
+    background-color: lime;
+    text-transform: uppercase;
+}
+.c53{
+    color: limegreen;
+    background-color: linen;
+    text-transform: uppercase;
+}
+.c54{
+    color: linen;
+    background-color: magenta;
+    text-transform: uppercase;
+}
+.c55{
+    color: magenta;
+    background-color: maroon;
+    text-transform: uppercase;
+}
+.c56{
+    color: maroon;
+    background-color: mediumaquamarine;
+    text-transform: uppercase;
+}
+.c57{
+    color: mediumaquamarine;
+    background-color: mediumblue;
+    text-transform: uppercase;
+}
+.c58{color: mediumblue;
+    background-color: mediumorchid;
+    text-transform: uppercase;
+}
+.c59{
+    color: mediumorchid;
+    background-color: mediumpurple;
+    text-transform: uppercase;
+}
+.c60{
+    color: mediumpurple;
+    background-color: mediumseagreen;
+    text-transform: uppercase;
+}
+.c61{
+    color: mediumseagreen;
+    background-color: mediumturquoise;
+    text-transform: uppercase;
+}
+.c62{
+    color: rgb(40, 112, 110);
+    background-color: mediumvioletred;
+    text-transform: uppercase;
+}
+.c63{
+    color: mediumvioletred;
+    background-color: rgb(48, 48, 117);
+    text-transform: uppercase;
+}
+.c64{
+    color: midnightblue;
+    background-color: mintcream;
+    text-transform: uppercase;
+}
+.c65{
+    color: mistyrose;
+    background-color: navy;
+    text-transform: uppercase;
+}
